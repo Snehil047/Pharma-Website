@@ -156,7 +156,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="section-title mb-35 wow fadeInDown animated" data-animation="fadeInDown"
                         data-delay=".4s">
-                        <h2>The Leagacy Of Triveni College Of Pharmacy</h2>
+                        <h2>The Legacy Of Triveni College Of Pharmacy</h2>
 
                     </div>
                     <ul class="pr-20">
@@ -392,7 +392,7 @@
                         data-delay=".4s">
                         <h5><i class="fal fa-graduation-cap"></i> Testimonial</h5>
                         <h2>
-                            What Our Studenet Says
+                            What Our Students Say
                         </h2>
 
                     </div>
@@ -405,14 +405,39 @@
                             <div class="qt-img">
                                 <img src="img/testimonial/qt-icon.png" alt="img">
                             </div>
-                            <p>Curabitur ac tortor ante. Sed quis iaculis risus. Ut ultrices ligula aliquet odio
-                                tristique euismod. Donec efficitur dolor in turpis aliquet, at mollis.</p>
+                            <p>"Triveni College of Pharmacy transforms students into industry-ready professionals. Expert faculty, cutting-edge facilities, and a supportive community make it an ideal choice for aspiring pharmacists."</p>
                             <div class="testi-author">
-                                <img src="img/testimonial/testi_avatar.png" alt="img">
+                                <img src="img/logo/dummy1.jpg" alt="img" width="55px" height="55p" class="rounded-circle">
                             </div>
                             <div class="ta-info">
-                                <h6>Margie Dose</h6>
-                                <span>Web Developer</span>
+                                <h6>Rahul Bose</h6>
+                                <span>Student</span>
+                            </div>
+                        </div>
+                        <div class="single-testimonial text-center">
+                            <div class="qt-img">
+                                <img src="img/testimonial/qt-icon.png" alt="img">
+                            </div>
+                            <p>"Triveni College's blend of rigorous academics and industry exposure shapes future pharmaceutical leaders. Diverse, collaborative, and forward-thinking, it's a stepping stone to success in the field."</p>
+                            <div class="testi-author">
+                            <img src="img/logo/dummy1.jpg" alt="img" width="55px" height="55p" class="rounded-circle">
+                            </div>
+                            <div class="ta-info">
+                                <h6>Rajesh Sharma</h6>
+                                <span>Student</span>
+                            </div>
+                        </div>
+                        <div class="single-testimonial text-center">
+                            <div class="qt-img">
+                                <img src="img/testimonial/qt-icon.png" alt="img">
+                            </div>
+                            <p>"Triveni College offers a collaborative learning environment, diverse student body, and practical experiences. Grateful for guidance that molds both academic and professional aspirations."</p>
+                            <div class="testi-author">
+                            <img src="img/logo/dummy1.jpg" alt="img" width="55px" height="55p" class="rounded-circle">
+                            </div>
+                            <div class="ta-info">
+                                <h6>Harshit Singh</h6>
+                                <span>Student</span>
                             </div>
                         </div>
                         <div class="single-testimonial text-center">
@@ -422,53 +447,24 @@
                             <p>Curabitur ac tortor ante. Sed quis iaculis risus. Ut ultrices ligula aliquet odio
                                 tristique euismod. Donec efficitur dolor in turpis aliquet, at mollis.</p>
                             <div class="testi-author">
-                                <img src="img/testimonial/testi_avatar_02.png" alt="img">
+                            <img src="img/logo/dummy1.jpg" alt="img" width="55px" height="55p" class="rounded-circle">
                             </div>
                             <div class="ta-info">
-                                <h6>Rock Dloder</h6>
-                                <span>Web Developer</span>
+                                <h6>Kshitij Baranwaal</h6>
+                                <span>Student</span>
                             </div>
                         </div>
                         <div class="single-testimonial text-center">
                             <div class="qt-img">
                                 <img src="img/testimonial/qt-icon.png" alt="img">
                             </div>
-                            <p>Curabitur ac tortor ante. Sed quis iaculis risus. Ut ultrices ligula aliquet odio
-                                tristique euismod. Donec efficitur dolor in turpis aliquet, at mollis.</p>
+                            <p>"Triveni College prioritizes ethics and social responsibility, shaping not only competent pharmacists but responsible professionals. Industry connections provide real-world experience and opportunities for success."</p>
                             <div class="testi-author">
-                                <img src="img/testimonial/testi_avatar_03.png" alt="img">
+                            <img src="img/logo/dummy1.jpg" alt="img" width="55px" height="55p" class="rounded-circle">
                             </div>
                             <div class="ta-info">
-                                <h6>Roboto Eorure</h6>
-                                <span>Web Developer</span>
-                            </div>
-                        </div>
-                        <div class="single-testimonial text-center">
-                            <div class="qt-img">
-                                <img src="img/testimonial/qt-icon.png" alt="img">
-                            </div>
-                            <p>Curabitur ac tortor ante. Sed quis iaculis risus. Ut ultrices ligula aliquet odio
-                                tristique euismod. Donec efficitur dolor in turpis aliquet, at mollis.</p>
-                            <div class="testi-author">
-                                <img src="img/testimonial/testi_avatar.png" alt="img">
-                            </div>
-                            <div class="ta-info">
-                                <h6>Margie Dose</h6>
-                                <span>Web Developer</span>
-                            </div>
-                        </div>
-                        <div class="single-testimonial text-center">
-                            <div class="qt-img">
-                                <img src="img/testimonial/qt-icon.png" alt="img">
-                            </div>
-                            <p>Curabitur ac tortor ante. Sed quis iaculis risus. Ut ultrices ligula aliquet odio
-                                tristique euismod. Donec efficitur dolor in turpis aliquet, at mollis.</p>
-                            <div class="testi-author">
-                                <img src="img/testimonial/testi_avatar_02.png" alt="img">
-                            </div>
-                            <div class="ta-info">
-                                <h6>Rock Dloder</h6>
-                                <span>Web Developer</span>
+                                <h6>Shresth Srivatsva</h6>
+                                <span>Student</span>
                             </div>
                         </div>
                     </div>
@@ -560,23 +556,19 @@
                     <div class="single-post2 hover-zoomin mb-30 wow fadeInUp animated" data-animation="fadeInUp"
                         data-delay=".4s">
                         <div class="blog-thumb2">
-                            <a href="blog-details.html"><img src="img/blog/inner_b1.jpg" alt="img"></a>
+                            <a href="blog-details.html"><img src="img/logo/blog1.jpg" alt="img"></a>
                             <div class="date-home">
-                                <i class="fal fa-calendar-alt"></i> 24th March 2023
+                                <i class="fal fa-calendar-alt"></i> 05 January 2024
                             </div>
                         </div>
                         <div class="blog-content2">
                             <div class="b-meta">
                                 <div class="meta-info">
-                                    <ul>
-                                        <li><i class="fal fa-user"></i> By Admin </li>
-                                        <li><i class="fal fa-comments"></i> 3 Comments</li>
-                                    </ul>
+                                   
                                 </div>
                             </div>
-                            <h4><a href="blog-details.html">Cras accumsan nulla nec lacus ultricies placerat.</a></h4>
-                            <p>Curabitur sagittis libero tincidunt tempor finibus. Mauris at dignissim ligula, nec
-                                tristique orci.</p>
+                            <h4><a href="blog-details.html">"Triveni College: Nurturing Minds, Inspiring Futures"</a></h4>
+                            <p>Explore the academic excellence of Triveni College, where diverse programs and experienced faculty converge to shape the leaders of tomorrow.</p>
                             <div class="blog-btn"><a href="blog-details.html">Read More <i
                                         class="fal fa-long-arrow-right"></i></a></div>
                         </div>
@@ -586,24 +578,20 @@
                     <div class="single-post2 mb-30 hover-zoomin wow fadeInUp animated" data-animation="fadeInUp"
                         data-delay=".4s">
                         <div class="blog-thumb2">
-                            <a href="blog-details.html"><img src="img/blog/inner_b2.jpg" alt="img"></a>
+                            <a href="blog-details.html"><img src="img/logo/blog2.jpg" alt="img"></a>
                             <div class="date-home">
-                                <i class="fal fa-calendar-alt"></i> 24th March 2023
+                                <i class="fal fa-calendar-alt"></i> 07 October 2023
                             </div>
                         </div>
                         <div class="blog-content2">
 
                             <div class="b-meta">
                                 <div class="meta-info">
-                                    <ul>
-                                        <li><i class="fal fa-user"></i> By Admin </li>
-                                        <li><i class="fal fa-comments"></i> 3 Comments</li>
-                                    </ul>
+                                    
                                 </div>
                             </div>
-                            <h4><a href="blog-details.html">Dras accumsan nulla nec lacus ultricies placerat.</a></h4>
-                            <p>Curabitur sagittis libero tincidunt tempor finibus. Mauris at dignissim ligula, nec
-                                tristique orci.</p>
+                            <h4><a href="blog-details.html">"Beyond Books: Tapestry of Triveni's Journey"</a></h4>
+                            <p>Dive into the dynamic world of extracurricular activities at Triveni College, where students explore passions beyond the classroom.</p>
                             <div class="blog-btn"><a href="blog-details.html">Read More <i
                                         class="fal fa-long-arrow-right"></i></a></div>
                         </div>
@@ -613,24 +601,20 @@
                     <div class="single-post2 mb-30 hover-zoomin wow fadeInUp animated" data-animation="fadeInUp"
                         data-delay=".4s">
                         <div class="blog-thumb2">
-                            <a href="blog-details.html"><img src="img/blog/inner_b3.jpg" alt="img"></a>
+                            <a href="blog-details.html"><img src="img/logo/blog3.jpg" alt="img"></a>
                             <div class="date-home">
-                                <i class="fal fa-calendar-alt"></i> 24th March 2023
+                                <i class="fal fa-calendar-alt"></i> 24th December 2023
                             </div>
                         </div>
                         <div class="blog-content2">
 
                             <div class="b-meta">
                                 <div class="meta-info">
-                                    <ul>
-                                        <li><i class="fal fa-user"></i> By Admin </li>
-                                        <li><i class="fal fa-comments"></i> 3 Comments</li>
-                                    </ul>
+                                   
                                 </div>
                             </div>
-                            <h4><a href="blog-details.html">Seas accumsan nulla nec lacus ultricies placerat.</a></h4>
-                            <p>Curabitur sagittis libero tincidunt tempor finibus. Mauris at dignissim ligula, nec
-                                tristique orci.</p>
+                            <h4><a href="blog-details.html">"Alumni Impact: Triveni College Graduates Redefining Success"</a></h4>
+                            <p>Discover the success stories of Triveni College alumni making a difference in various fields, lasting impact on shaping accomplished professionals.</p>
                             <div class="blog-btn"><a href="blog-details.html">Read More <i
                                         class="fal fa-long-arrow-right"></i></a></div>
                         </div>
@@ -643,38 +627,7 @@
     </section>
     <!-- blog-area-end -->
 
-    <!-- newslater-area -->
-    <section class="newslater-area pt-60 pb-60" style="background-color: #125875;">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-7 col-lg-7">
-                    <div class="section-title newslater-title">
-                        <div class="icon">
-                            <img src="img/icon/send-mail.png" alt="img">
-                        </div>
-                        <div class="text">
-                            <h2>Subscribe for Newsletter</h2>
-                            <p>Manage Your Business With Our Software</p>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="col-xl-5 col-lg-5">
-                    <form name="ajax-form" id="contact-form4" action="#" method="post" class="contact-form newslater">
-                        <div class="form-group p-relative">
-                            <input class="form-control" id="email2" name="email" type="email"
-                                placeholder="Email Address..." value="" required="">
-                            <button type="submit" class="btn btn-custom" id="send2">Subscribe Now</button>
-                        </div>
-                        <!-- /Form-email -->
-                    </form>
-                </div>
-            </div>
-
-        </div>
-    </section>
-    <!-- newslater-aread-end -->
-
+   
 </main>
 <!-- main-area-end -->
 <?php include_once('footer.php'); ?>

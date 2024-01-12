@@ -136,6 +136,7 @@
 <script src="js/jquery.magnific-popup.min.js"></script>
 <script src="js/element-in-view.js"></script>
 <script src="js/main.js"></script>
+<script src="https://kit.fontawesome.com/dd6927e325.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
